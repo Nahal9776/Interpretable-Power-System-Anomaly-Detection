@@ -19,7 +19,7 @@
     ·
     <a href="https://unifind.unipd.it/resource/person/495353?language=en-US">Emad Efatinasab</a>
     ·
-    <a href="https://www.dei.unipd.it/persona/95DDDDA0C518D43822ADC0338BD38073">Mirco Rampazzo</a>
+    <a href="https://www.unipd.it/contatti/mirco.rampazzo">Mirco Rampazzo</a>
   </p>
 </div>
 
