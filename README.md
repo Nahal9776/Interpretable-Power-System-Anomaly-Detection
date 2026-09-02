@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nahal9776/Interpretable-Power-System-Anomaly-Detection">
-    <img src="Figures/logo.png" alt="Logo" width="500" height="500">
+    <img src="Figure/logo.png" alt="Logo" width="500" height="500">
   </a>
 
   <h1 align="center"></h1>
