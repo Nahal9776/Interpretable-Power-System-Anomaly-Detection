@@ -12,7 +12,7 @@
   <p align="center">
     Learning Fuzzy Normal-Operation Regimes for Interpretable Power System Anomaly Detection
     <br />
-    <a href="???"><strong>Paper Revised in Electric Power Systems Research»</strong></a>
+    <a href="???"><strong>Paper Revised in Electric Power Systems Research</strong></a>
     <br />
     <br />
     <a href="https://scholar.google.com/citations?user=VG_xT0YAAAAJ&hl=en">Nahal Azadi</a>
